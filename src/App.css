@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Container {
+  max-width: 70%;
+}
+
+.Image {
+  flex: 1;
+  width: null;
+  height: null;
+  resizeMode: 'contain';
+}
