@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
 }
 
 .App-logo {
@@ -38,7 +42,7 @@
 }
 
 .Container {
-  max-width: 70%;
+  max-width: 85%;
 }
 
 .Image {
