@@ -51,3 +51,8 @@
   height: null;
   resizeMode: 'contain';
 }
+
+div a {
+  color: white;
+  text-decoration: none;
+}
