@@ -112,12 +112,12 @@ const App = () => {
           <Col>
             <Row>
               <ImageCol title={imageData[0].title} src={imageData[0].src} url={imageData[0].url} />
-              <ImageCol title={imageData[1].title} src={imageData[1].src} url={imageData[1].url} />
+              <ImageCol title={imageData[2].title} src={imageData[2].src} url={imageData[2].url} />
             </Row>
           </Col>
           <Col>
             <Row>
-              <ImageCol title={imageData[2].title} src={imageData[2].src} url={imageData[2].url} />
+              <ImageCol title={imageData[1].title} src={imageData[1].src} url={imageData[1].url} />
               <ImageCol title={imageData[3].title} src={imageData[3].src} url={imageData[3].url} />
             </Row>
           </Col>
